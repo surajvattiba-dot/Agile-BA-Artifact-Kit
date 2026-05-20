@@ -82,9 +82,8 @@ Full UAT suite mapped directly to user stories and acceptance criteria, includin
 ### 4. Requirements Traceability Matrix (RTM)
 End-to-end traceability linking:
 ```
-Business Requirement → User Story → Test Case → Defect (if applicable)
+Business Requirement → User Story → Test Case → Defect 
 ```
-Ensures nothing falls through the cracks from requirements through QA sign-off.
 
 ### 5. BPMN Process Maps (As-Is / To-Be)
 Visio/Lucidchart process flows documenting:
